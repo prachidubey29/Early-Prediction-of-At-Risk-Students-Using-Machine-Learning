@@ -1,0 +1,2 @@
+# arly-Prediction-of-At-Risk-Students-Using-Machine-Learnin
+Designed a two-stage machine learning framework combining Random Forest feature selection and Support Vector Machine (SVM) classification to identify at-risk learners in online education systems.  Achieved improved prediction performance (higher accuracy, recall, and F1-score) compared to baseline models, supporting timely academic intervention.
